@@ -50,3 +50,7 @@ Does not require any external library or script to run. Light-weight and useful 
   
 ###### LICENSE NOTES:
   The Datepicker plugin is an open source of code and is intended to be easily reused by any average user hence the MIT license was chosen. Since the license gives the user right to use, replicate, edit, distribute the code as long as the copyright is included everywhere, it was an apt choice in order to ensure that all its users have the flexibility to use and integrate the plugin as per their own project needs.
+
+###### NEW FEATURES ADDED
+
+1) Customizable CSS code added.
